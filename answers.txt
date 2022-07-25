@@ -1,3 +1,11 @@
-Your answers go here!
-Please include your name and number your answers.
-==================================================
+Taylor Phillips
+1. Linus Torvalds
+2. Linus Torvalds is also famous for creating Linux.
+3. 2005
+4. git init
+5. The git push command uploads the information from the local repository to the remote repository.
+6. The .gitignore file is used to ignore files when you are committing your work to Github.
+7. A fork is a clone or copy of the projects repo that is listed. You want to use a fork so you can add to another contributors code and collaborate with them.
+8.  A clone  is a copy of a repository where we can store it in a new directory. You can only have one clone if it is going in the same directory. It won't allow you to clone again since there is already a clone and that directory being used.
+9. No, you should never put a repository inside another repository.
+10. True, you can check at any time. 
